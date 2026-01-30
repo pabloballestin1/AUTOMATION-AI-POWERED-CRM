@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="banner-pablo.png" alt="AI CRM Odoo + n8n Banner" width="100%" style="border-radius: 15px;">
+
 
   <br><br>
 
