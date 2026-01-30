@@ -146,10 +146,10 @@ The result is a CRM that does not just store data, but **acts proactively**.
 
 | Area | Impact |
 | :--- | :--- |
-| 🧾 **Manual CRM Tasks** | ![90%](https://img.shields.io/badge/Reduced-90%25-brightgreen?style=for-the-badge) |
+| 🧾 **Manual CRM Tasks** | ![~40%](https://img.shields.io/badge/Reduced-90%25-brightgreen?style=for-the-badge) |
 | 📈 **Sales Focus** | ![Predictive](https://img.shields.io/badge/Predictive-Driven-blue?style=for-the-badge) |
-| ⏱️ **Response Time** | ![4x](https://img.shields.io/badge/Faster-4X-orange?style=for-the-badge) |
-| 🤖 **Automation Level** | ![High](https://img.shields.io/badge/AI-Centric-black?style=for-the-badge) |
+| ⏱️ **Response Time** | ![~0](https://img.shields.io/badge/Faster-4X-orange?style=for-the-badge) |
+| 🤖 **Sales increasement** | ![~9%](https://img.shields.io/badge/AI-Centric-black?style=for-the-badge) |
 
 </div>
 
