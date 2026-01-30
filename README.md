@@ -40,10 +40,6 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#f8f9fa">
-
 ## 🤖 Odoo + n8n Smart CRM System
 
 ### 🧠 Architecture Overview
@@ -56,6 +52,10 @@ The result is a CRM that does not just store data, but **acts proactively**.
 
 ### 🪪 1. AI Business Card OCR & Smart Lead Registration
 *From physical card to enriched CRM lead — automatically.*
+
+<p align="center">
+  <img src="ocr.png" alt="OCR Automation" width="80%" style="border-radius: 10px; border: 1px solid #eee;">
+</p>
 
 **Key features:**
 - OCR extraction from business cards (photos or scans)
@@ -75,6 +75,10 @@ The result is a CRM that does not just store data, but **acts proactively**.
 ### 📊 2. Weekly Predictive Sales Agent
 *AI predicts which customers are likely to order this week.*
 
+<p align="center">
+  <img src="alertas_producto.png" alt="Sales Predictions" width="80%" style="border-radius: 10px; border: 1px solid #eee;">
+</p>
+
 **Automations:**
 - Analysis of historical sales and customer behavior
 - Prediction of upcoming orders
@@ -87,6 +91,10 @@ The result is a CRM that does not just store data, but **acts proactively**.
 
 ### 📈 3. Monthly Production & Sales Intelligence Agent
 *Executive-level insight generated automatically.*
+
+<p align="center">
+  <img src="resumenes.png" alt="Monthly Intelligence" width="80%" style="border-radius: 10px; border: 1px solid #eee;">
+</p>
 
 **Delivers:**
 - Monthly summary of:
@@ -104,13 +112,20 @@ The result is a CRM that does not just store data, but **acts proactively**.
 ### 🕵️‍♂️ 4. Automated Lead Generation (Web + LinkedIn)
 *Continuous prospecting without manual effort.*
 
+<div align="center">
+  <img src="WebScraping.png" alt="Web Scraping" width="45%" style="margin: 5px;">
+  <img src="linkedin.png" alt="LinkedIn Automation" width="45%" style="margin: 5px;">
+  <br>
+  <img src="enrichment.png" alt="Data Enrichment" width="60%" style="margin: 10px; border-radius: 10px; border: 1px solid #eee;">
+</div>
+
 **Process:**
 - Weekly scraping of:
   - Company websites
   - Public LinkedIn data
 - Data cleaning and deduplication
 - Automatic lead creation in Odoo
-- Optional AI enrichment and tagging
+- AI enrichment to identify key decision-makers and company pain points
 
 📌 **Outcome:** Constant inflow of new qualified leads.
 
@@ -118,6 +133,10 @@ The result is a CRM that does not just store data, but **acts proactively**.
 
 ### ✉️ 5. AI-Powered Mass & Personalized Email Writer
 *Scalable outreach without losing personalization.*
+
+<p align="center">
+  <img src="correos masivos.png" alt="AI Email Automation" width="80%" style="border-radius: 10px; border: 1px solid #eee;">
+</p>
 
 **Capabilities:**
 - AI-generated email campaigns
